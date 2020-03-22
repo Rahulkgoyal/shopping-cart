@@ -1,6 +1,6 @@
-# Shopping_cart Ecommerce website
+# Shopping-cart Ecommerce Website
 
-Shopping cart is an ecommerce website for needy people and physially  disabled. they can use this website to order groceries online.They can select things to order and do digital payment.The delivery boy will come to doorstep to deliever the things in  less than 2 hours.
+Shopping cart is an ecommerce website for elder and physially disabled. They can use this website to order groceries online. They can select things to order and make digital payment. The delivery boy will come to the doorstep to deliever the things in  less than 2 hours.
 
 ## How to run website on local machine
 
