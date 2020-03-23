@@ -9,6 +9,6 @@ Here we have used mongodb for backend and Nodejs with express.js to wtite backen
 
 1. first install Nodejs and [Mongodb]([https://www.mongodb.com/](https://www.mongodb.com/)) on your system.
    >Please use 12.16.1 LTS version of Nodejs.
-2. To run mongodb .use command -> mongod
-3. To run express server. use command -> npm run start
+2. To run mongodb.Go to mongodb directory and use command -> mongod
+3. To run express server.Go to shopping cart master directory and use command -> node server.js
 4. then type in local machine browser url -> localhost:3000
